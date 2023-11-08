@@ -1,2 +1,2 @@
-# passwortmanager_backend
-Backend für den Passwortmanager
+# passwortmanager
+Passwortmanager mit Node.js, React.js und MySQL
