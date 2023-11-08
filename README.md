@@ -1,2 +1,2 @@
 # passwortmanager
-Passwortmanager mit Node.js, React.js und MySQL
+Passwortmanager mit Node.js, React und MySQL
